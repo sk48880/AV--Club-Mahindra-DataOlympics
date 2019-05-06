@@ -1,5 +1,7 @@
 # AV--Club-Mahindra-DataOlympics
 
+Competition Link: https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
+
 **Problem Statement**
 
 **Food & Beverages Spend Prediction in Club Mahindra Resorts**
